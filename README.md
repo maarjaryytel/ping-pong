@@ -22,7 +22,7 @@ Mängija, kes ei suuda enda mänguväljaku poolset seina ristkülikuga kaitsta j
 
 Võidab mängija, kellel on vähem punkte.
 
-[Mänguväljaku pilt] (/foto/pilt.png)
+[Mänguväljaku pilt] (/foto/pilt.PNG)
 
 
 
