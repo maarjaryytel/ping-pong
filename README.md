@@ -1,12 +1,11 @@
 
 <b>ÜLDIST</b>
 
-See on lihtne <b>PING-PONG</b> mäng, mis on koostatud kasutades <b>Turtle</b> ja <b>Python 3.7.</b> 
+See on lihtne <b>PING-PONG</b> mäng, mis on koostatud kasutades <b>Turtle</b> ja <b>Python 3.7.5</b> 
 
 Mängu saab käivitada terminalis või command prompt'is failist main.py.
 
 See rakendus on Teie tähelepanu väärt, kuna teda on lihtne mängida ning tal on kasutajasõbralik disain.
-
 
 <b>MÄNGUREEGLID</b>
 
@@ -22,7 +21,11 @@ Mängija, kes ei suuda enda mänguväljaku poolset seina ristkülikuga kaitsta j
 
 Võidab mängija, kellel on vähem punkte.
 
-![Mänguväljaku pilt](/foto/pilt.PNG)
+![Mänguväljaku pilt](/foto/pilt.PNG) 
+
+<b>TEHNOLOOGIA</b>
+
+Mänguväljak, mänguväljakul paiknevad ristkülikud, pall, skoorikast on kõik joonistatud Turtle'ga. Palli liikumist on reguleeritud x ja y telje alusel tekkivate koordinaatide.
 
 Maarja<br>
 06.03.2020
