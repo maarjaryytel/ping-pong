@@ -27,7 +27,7 @@ Võidab mängija, kellel on vähem punkte.
 
 Mänguväljak, mänguväljakul paiknevad ristkülikud, pall, skoorikast on kõik joonistatud Turtle'ga. Palli liikumist on reguleeritud x ja y telje alusel tekkivate koordinaatide.
 
-![Koodi pilt](/foto4/pilt.PNG) 
+![Koodi pilt](/foto/pilt4.PNG) 
 
 Maarja<br>
 06.03.2020
