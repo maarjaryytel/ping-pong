@@ -1,5 +1,5 @@
 
-ÜLDIST
+<b>ÜLDIST<b>
 
 See on lihtne PING-PONG mäng, mis on koostatud kasutades Turtle ja Python 3.7. 
 
@@ -24,5 +24,6 @@ Võidab mängija, kellel on vähem punkte.
 
 ![Mänguväljaku pilt](/foto/pilt.PNG)
 
-
+Maarja
+06.03.2020
 
