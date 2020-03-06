@@ -25,7 +25,7 @@ Võidab mängija, kellel on vähem punkte.
 
 <b>TEHNOLOOGIA</b>
 
-Mänguväljak, mänguväljakul paiknevad ristkülikud, pall, skoorikast on kõik joonistatud Turtle'ga. Palli liikumist on reguleeritud x ja y telje alusel tekkivate koordinaatide.
+Mänguväljak, mänguväljakul paiknevad ristkülikud, pall, skoorikast on kõik joonistatud Turtle'ga. Palli liikumist on reguleeritud x ja y telje alusel tekkivate koordinaatidega.
 
 ![Koodi pilt](/foto/pilt4.PNG) 
 
