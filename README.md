@@ -1,7 +1,7 @@
 
 <b>ÜLDIST</b>
 
-See on lihtne PING-PONG mäng, mis on koostatud kasutades Turtle ja Python 3.7. 
+See on lihtne <b>PING-PONG</b> mäng, mis on koostatud kasutades <b>Turtle</b> ja <b>Python 3.7.</b> 
 
 Mängu saab käivitada terminalis või command prompt'is failist main.py.
 
@@ -14,9 +14,9 @@ Mäng toimub paaris.
 
 Kummagil mängijal tuleb kaitsta oma mänguväljaku seina palli tabamuse eest mängulaual paikneva ristküliku abil.
 
-Paremal mänguväljaku poolel mängival mängijal tuleb ristküliku liigutamiseks kasutada klahve "<b>p</b>" ja "<b>l</b>".
+<b>Paremal</b> mänguväljaku poolel mängival mängijal tuleb ristküliku liigutamiseks kasutada klahve "<b>p</b>" ja "<b>l</b>".
 
-Vasakul mänguväljaku poolel mängival mängijal tuleb ristküliku liigutamiseks kasutada klahve "w" ja "s".
+<b>Vasakul</b> mänguväljaku poolel mängival mängijal tuleb ristküliku liigutamiseks kasutada klahve "<b>w</b>" ja "<b>s</b>".
 
 Mängija, kes ei suuda enda mänguväljaku poolset seina ristkülikuga kaitsta ja pall tabab mänguväljaku seina, saab tabamuse eest punkti. 
 
